@@ -1,2 +1,2 @@
 # sample_project
-harry made this change.
+Kane and Harry made this change.
